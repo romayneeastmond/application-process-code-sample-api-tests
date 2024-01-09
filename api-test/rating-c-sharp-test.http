@@ -1,0 +1,8 @@
+PUT https://quizapi.structurestudios.com/api/Careers/Dauphinoise
+content-type: application/json
+X-FirstName: Romayne
+X-LastName: Eastmond
+
+{
+	"Expertise": "8/10 I over 15 years experience using it in various ways; ranging from console applications to .NET Core, .NET Framework, and Web APIs."
+}

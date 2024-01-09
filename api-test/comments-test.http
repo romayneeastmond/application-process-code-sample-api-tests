@@ -1,0 +1,7 @@
+POST https://quizapi.structurestudios.com/api/Careers/Gorlami
+content-type: application/json
+X-SecurityID: b4e44c25-0939-4693-a278-cababdaa5fda
+
+{
+	"Comments": "I used a program called LINQPad to run the code. In Visual Studio I usually run the Ctrl + K + D to quickly clean up any lingering formatting issues. Personally the code works, but I would have issue with the naming of the function and variable names. Since we have type inference, I have a preference to declaring variables with the var keyword. Additionally a StringBuilder could help reduce the number of lines of code; but ultimately I would use the built in extension menu, string.Join(\", \", values); to reduce this boilerplate. If we must absolutely use this function, I would prefer to be an extension method, maybe values.ToCsvString();"
+}

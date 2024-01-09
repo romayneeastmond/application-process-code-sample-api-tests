@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Mon, 08 Jan 2024 03:33:06 GMT
+Content-Type: text/plain; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: Microsoft-IIS/10.0
+
+"Oh, I see! Yes, that makes sense. Thank you!!" She smiles broadly. "Now, is there anything I could do for you?”
+
+“I need to find Noah's office,” you say, brandishing the razor. There's a 'situation' I need to resolve.”
+
+"Oh, his office is right over there." Tina points to a door with an imposing-looking keypad.  "But you'll need the key code to get inside."
+
+"What's the code?" you ask, knowing it's not going to be that easy.
+
+"I don't have it, but I know how you can get it. Around here, if you need access, you need to talk to Justin." She points towards an open door at the end of a short hallway.
+
+
+You head down the hallway and peek through the open doorway into Justin's office. A man with a magnificent red beard is staring morosely at a dark monitor. "No! Not you, Bob, not you, too! First Kevin, and now Bob. Both dead long before their time, and they still had so much work to do!"
+
+"What!?" you exclaim. Do they work their employees to death here?
+
+"Yep, Bob went to sleep, and I can't wake him back up. I fear we've lost another build machine," Justin says.
+
+Ahh, Bob the build machine, Bob the Builder!  These guys have an odd sense of humor, you think to yourself.
+
+"Can I help?" you ask.
+
+"Well, it might cheer me up if you showed me something interesting and fun," he says cheekily.
+
+
+Fill in this generic class and method; it can do anything you want. Demonstrate some creativity and have some fun.
+
+class MyClass
+{
+    public void Something_Interesting () { return ; }
+}
+
+Save your code to a local .cs file and POST your response to https://quizapi.structurestudios.com/api/Careers/Haptic.  You'll include your code as a file attachment inside of a form-data property named "CodeSample"; remember to include your security ID.

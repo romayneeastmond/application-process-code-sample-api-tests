@@ -1,0 +1,11 @@
+You decode the Base64 message like a boss, and it reads:
+
+Well done, Romayne; it looks like you may possess the necessary skills after all. Sorry I had to encrypt my response; this is mission-critical information.
+
+Your security ID is b4e44c25-0939-4693-a278-cababdaa5fda. From now on, include this security ID in every header with the key "X-SecurityID".  Once again, this is mission-critical.  (Seriously, don't forget to include this ID with your quiz answers).
+
+Your next task: find the student intern who’ll guide your path.
+
+James nods his head in approval, "Good luck, Candidate." He starts to leave but then turns back. "Almost forgot; you'll need this," he says, handing you the razor.
+
+POST a JSON object with a property named "Command" containing a value of "enter" to https://quizapi.structurestudios.com/api/Careers/Entrance and include your security ID in the header.

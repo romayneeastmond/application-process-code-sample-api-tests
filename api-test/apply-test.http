@@ -1,0 +1,6 @@
+POST https://quizapi.structurestudios.com/api/Careers/Avocado
+content-type: application/json
+
+{
+	"Action": "apply"
+}

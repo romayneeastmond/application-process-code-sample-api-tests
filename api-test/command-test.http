@@ -1,0 +1,7 @@
+POST https://quizapi.structurestudios.com/api/Careers/Entrance
+content-type: application/json
+X-SecurityID: b4e44c25-0939-4693-a278-cababdaa5fda
+
+{
+	"Command": "enter"
+}
