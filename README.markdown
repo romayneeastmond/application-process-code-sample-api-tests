@@ -39,7 +39,8 @@ Cloning the project to a new location changes the FileInfo.LastWriteTimeUtc valu
 | comments-test.http         | 3 minutes             |                              |
 | database-breakin-test.http | 2 minutes             | Should have used JOINs       |
 | punchline-test.http        | 3 minutes             |                              |
+| final-test.http            | 6 minutes             |                              |
 
 Based on time spent, it can be inferred that "rating-c-sharp-test.http" took the longest to complete.
 
-Total time spent was approximately 33 minutes.
+Total time spent was approximately 39 minutes.

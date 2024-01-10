@@ -1,0 +1,11 @@
+POST https://quizapi.structurestudios.com/api/Careers/Lambic
+content-type: application/json
+X-SecurityID: b4e44c25-0939-4693-a278-cababdaa5fda
+
+{
+	"Email": "",
+    "Phone": "",
+    "GitHubURL": "https://github.com/romayneeastmond/application-process-code-sample-api-tests",
+    "LinkedInURL": "https://www.linkedin.com/in/romayne-eastmond/",
+    "Comments": "I applied for the Senior Front-End Developer Angular 16 Developer but found this test interesting. During the database test I did not use joins instead going with subqueries, if I had done the punchline test before that, I would have went with joins. In any event, I will try to create something using Angular, to showcase my front end experience, just in case you reach out to discuss."
+}
