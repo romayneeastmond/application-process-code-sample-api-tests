@@ -1,0 +1,8 @@
+POST https://quizapi.structurestudios.com/api/Careers/Kangaroo
+content-type: application/json
+X-SecurityID: b4e44c25-0939-4693-a278-cababdaa5fda
+
+{
+	"KeyCode": "Autumn",
+    "QueryUsed": "SELECT Name FROM QuizData.Dogs WHERE ID IN (SELECT Dogs_ID FROM QuizData.Dogs_Ears WHERE EarLength = 'Long' AND IsMale = 0 AND Dogs_ID IN (SELECT Dogs_ID FROM QuizData.Dogs_Fur Where FurColor = 'White' AND FurLength = 'Short'));"
+}

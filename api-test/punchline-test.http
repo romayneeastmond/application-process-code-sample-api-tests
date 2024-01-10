@@ -1,0 +1,7 @@
+POST https://quizapi.structurestudios.com/api/Careers/Joker
+content-type: application/json
+X-SecurityID: b4e44c25-0939-4693-a278-cababdaa5fda
+
+{
+	"Punchline": "I applied for the Senior Front-End Developer Angular 16 Developer position but found this test fun and interesting. Thank you."
+}

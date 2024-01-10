@@ -11,11 +11,12 @@ public class Statistic
 
 public class MyClass
 {
-	public const string PathToSource = @"C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\Nodejs\structure-studios-angular\api-test";
+	public const string PathToSource = @"C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\Nodejs\structure-studios-application\api-test";
 	
 	public void Something_Interesting() 
 	{
-		Console.WriteLine($"Performance Review.");		
+		Console.WriteLine($"Full Sample available at https://github.com/romayneeastmond/application-process-code-sample-api-tests{Environment.NewLine}");
+		Console.WriteLine("Performance Review.");		
 		Console.WriteLine($"Determined by analyzing the test files creation and modified times.{Environment.NewLine}");
 		
 		var statistics = GetStatistics();

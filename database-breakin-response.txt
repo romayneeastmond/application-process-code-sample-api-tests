@@ -1,0 +1,9 @@
+You enter the code into the keypad and hear a soft click. Razor in hand, you quietly slip into the office, expecting to turn on a lamp. To your surprise, the man behind the desk isn’t dozing behind an overgrown mustache at all—in fact, he’s awake and clean-shaven!
+
+“Nice work, Romayne! I'm Noah. It's great to meet you after observing your progress. I think you may be just the programmer we've been hoping to find.
+
+“I’m excited to discuss your results with our two programming leads. If we could use your help with our fun and challenging projects, I’ll reach out soon to continue our chat.”
+
+Please POST your “Email”, “Phone”, “GitHubURL”, and “LinkedInURL” to https://quizapi.structurestudios.com/api/Careers/Lambic inside of a JSON object. Feel free to include any “Comments”, and don't forget your security ID!
+
+Thank you!

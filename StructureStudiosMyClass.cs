@@ -1,5 +1,3 @@
-// Source: https://github.com/romayneeastmond/application-process-code-sample-api-tests
-
 using System;
 using System.IO;
 using System.Linq;
@@ -19,7 +17,8 @@ public class MyClass
 
     public void Something_Interesting()
     {
-        Console.WriteLine($"Performance Review.");
+        Console.WriteLine($"Full Sample available at https://github.com/romayneeastmond/application-process-code-sample-api-tests{Environment.NewLine}");
+        Console.WriteLine("Performance Review.");
         Console.WriteLine($"Determined by analyzing the test files creation and modified times.{Environment.NewLine}");
 
         var statistics = GetStatistics();

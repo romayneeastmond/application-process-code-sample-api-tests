@@ -1,0 +1,11 @@
+"Justin chuckles as he reads your response. "That is just what I needed; thanks," he says.
+
+"Now that I've helped you, will you give me the code to Noah's office? There's a man I need to shave," you say boldly.
+
+Justin looks shocked at the idea as he strokes his own magnificent beard. "Well … since you were so kind to me, I suppose I could help you out. But let's make this fun!" he says.
+
+For your final challenge, you have a choice. Either break into a database and search for the KEY or tell Justin a joke. A very funny joke.
+
+If you choose to infiltrate the MySQL database, connect to REMOVED with username: REMOVED and password: REMOVED schema: REMOVED .
+
+If you choose to tell a joke, POST your joke to https://quizapi.structurestudios.com/api/Careers/Joker inside of a JSON object with a property named "Punchline". However, if you forget to include your security ID, the joke will be on you.
